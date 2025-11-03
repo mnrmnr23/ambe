@@ -125,8 +125,8 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="font-bold text-gray-900 mb-1">Telefone</h3>
-                    <p className="text-gray-600">(11) 3555-1000</p>
-                    <p className="text-gray-600">WhatsApp: (11) 99999-0000</p>
+                    <p className="text-gray-600">(31) 99735-2288</p>
+                    <p className="text-gray-600">WhatsApp: (31) 99735-2288</p>
                   </div>
                 </div>
 
