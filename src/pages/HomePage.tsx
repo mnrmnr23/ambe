@@ -1,6 +1,6 @@
 import { MessageCircle, ShoppingBag, Users, Truck, Award, Clock } from 'lucide-react';
 
-const WHATSAPP_URL = 'https://wa.me/5571996289081?text=ola';
+const WHATSAPP_URL = 'https://wa.me/5531997352288?text=ola';
 
 export default function HomePage() {
   return (
